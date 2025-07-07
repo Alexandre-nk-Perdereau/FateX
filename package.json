@@ -1,5 +1,5 @@
 {
-    "name": "fatex",
+    "name": "fatexFixCandidate",
     "version": "1.0.0",
     "description": "FateX is the extended Fate game system for FoundryVTT.",
     "private": true,
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/anvil-vtt/FateX.git"
+        "url": "git+https://github.com/Alexandre-nk-Perdereau/FateX.git"
     },
     "author": "Patrick Bauer (Daddi#2333)",
     "license": "MIT",
