@@ -1,5 +1,5 @@
 {
-    "name": "fatexFixCandidate",
+    "name": "fatex",
     "version": "1.0.0",
     "description": "FateX is the extended Fate game system for FoundryVTT.",
     "private": true,
